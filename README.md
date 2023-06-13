@@ -1,6 +1,2 @@
-# erofs-tools
-这是一个解压ROM工具
-
-帮助开发者快速解压ex4或者erofsROM
-
-并生成erofs img 
+# 一加解包工具
+**OnePlus 11系列Rom解包工具 (aarch64)**
